@@ -1,5 +1,6 @@
 # WeiToP & WeiAD
 
+[![Homepage](https://img.shields.io/badge/Homepage-WeiToP-14a362)](https://zichaozeng.github.io/WeiToP/)
 [![arXiv](https://img.shields.io/badge/arXiv-2605.20551-b31b1b.svg)](https://arxiv.org/abs/2605.20551)
 
 **[Faster or Stronger: Towards Flexible Visual Place Recognition via Weighted Aggregation and Token Pruning](https://arxiv.org/abs/2605.20551)**
